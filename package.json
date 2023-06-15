@@ -31,6 +31,7 @@
     "url": "git://github.com/ubaidjs/react-native-material-textfield.git"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0",
     "prop-types": "^15.5.9"
   },
   "peerDependencies": {
